@@ -1,2 +1,2 @@
 # tree-plantation 
-trees are planted to protect the environment
+guidlines on how to tree plnatation
